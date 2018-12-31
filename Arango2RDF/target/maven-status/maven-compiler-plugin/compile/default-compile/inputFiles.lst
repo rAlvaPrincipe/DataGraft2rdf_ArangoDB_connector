@@ -1,0 +1,8 @@
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/model/Campaign.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/model/EdgeCampaign.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/runner/EdgesRunner.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/runner/CampaignsRunner.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/repository/EdgeCampaignRepository.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/repository/CampaignRepository.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/ArangoConf.java
+/home/renzo/eclipse-workspace/Arango2RDFPro/src/main/java/it/unimib/disco/converter/ConverterApplication.java
